@@ -1,0 +1,16 @@
+[
+    {
+        "ip": "123.45.67.89",
+        "fecha": "12/Mar/2023:15:45:32",
+        "metodo": "GET",
+        "recurso": "/index.html",
+        "codigo": "200"
+    },
+    {
+        "ip": "98.76.54.32",
+        "fecha": "13/Mar/2023:16:02:10",
+        "metodo": "POST",
+        "recurso": "/login",
+        "codigo": "401"
+    }
+]
